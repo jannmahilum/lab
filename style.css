@@ -1,0 +1,115 @@
+.image { 
+    height: 700px;
+    width: 1000px;
+    margin-top: 80px;
+    margin-left: 200px;
+    top: 125px;
+    left: 800px;
+    position: absolute;
+ }
+
+.logo{
+top: 60px;
+left: 180px;
+position: absolute;
+width: 150px;
+height: 50px;
+
+  }
+  
+.h1{
+    margin-left: 500px;
+  left: 820px;
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  list-style: none;
+ 
+}
+.h2{
+    margin-left: 500px;
+  left: 1020px;
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 100;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  list-style: none;
+}
+.h3{
+    margin-left: 500px;
+  left: 1200px;
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  text-decoration: none;
+  position: absolute;
+  font-size: 30px;
+  font-family:'Roboto',sans-serif;
+  text-align: left;
+  font-weight: 100;
+  list-style: none;
+}
+
+.body{
+  background-color: #97755F;
+}
+.h4{
+left: 180px;
+top: 250px;
+font-size: 100px;
+position: absolute;
+width: 234px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+font-weight: bold;
+color: #201C18;
+}
+.h5{
+position: absolute;
+left: 200px;
+top: 500px;
+font-family: 'light';
+color: rgba(32, 28, 24, 1);
+font-size: 35px;
+}
+.h6{
+  position:absolute;
+  text-decoration: none;
+  left: 185px;
+  bottom: 280px;
+  color: rgba(32, 28, 24, 1);
+  font-weight: bold;
+  font-family:inter;
+  font-size: 23px;
+}
+.box{
+  border: 2px #C7A083;
+  border-radius: 9px;
+  background-color: #C7A083;
+  width: 135px;
+  height: 40px;
+  position: absolute;
+  left: 180px;
+  bottom: 280px;
+  box-shadow: #C7A083;
+
+}
